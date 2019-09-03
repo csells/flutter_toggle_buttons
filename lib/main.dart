@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
-  static final title = 'Flutter ToggbleButtons Demo';
+  static final title = 'Flutter ToggleButtons Demo';
   @override
   Widget build(BuildContext context) => MaterialApp(
         title: title,
